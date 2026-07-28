@@ -1,30 +1,40 @@
 <div align="center">
   <h1>Murilo Brescia</h1>
-  <p><b>Full-Stack Engineer | Systems Architect | Founder @ Impulso Digital</b></p>
-  <p>Desenvolvimento de software de alta performance, arquiteturas escaláveis e soluções focadas em eficiência operacional e conversão de receita.</p>
+  <p><b>Software Developer | Founder @ Impulso Digital</b></p>
+  <p>Desenvolvimento de software focado em alta performance, usabilidade e geração contínua de receita e valor de negócio para clientes.</p>
 </div>
 
 <hr />
 
 ### Sobre Mim
 
-- Bacharelado em Análise e Desenvolvimento de Sistemas na UniMetrocamp Wyden.
-- Especialista em arquitetura Web moderna com foco em performance, acessibilidade e SEO.
-- Fundador e Tech Lead na Impulso Digital, estruturando sistemas e landing pages de alta conversão.
-- Foco contínuo em soluções enxutas, código limpo, automação de processos e padrões de mercado.
+- Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na UniMetrocamp Wyden.
+- Desenvolvedor orientado a resultados na Impulso Digital, projetando e implantando soluções web de alto impacto comercial e forte otimização de conversão.
+- Domínio prático na construção de aplicações robustas em **PHP** e **Bancos de Dados Relacionais (MySQL/PostgreSQL)**, combinando arquitetura limpa e alta eficiência operacional.
+- Histórico comprovado de entregas em produção que resolvem dores reais do cliente, trazendo retorno sobre o investimento (ROI) imediato.
 
 <hr />
 
-### Tecnologias e Ferramentas
+### Projeto em Destaque (Case de Sucesso)
+
+> **[Pesqueiro Capela](https://pesqueirocapela.com.br)**
+> Aplicação web em produção focada em usabilidade, performance e captação ativa de novos clientes.
+> - **Tecnologias:** PHP, MySQL, HTML5, CSS3, JavaScript.
+> - **Impacto de Negócio:** Sistema 100% funcional, rodando com alta disponibilidade e gerando fluxo constante de receita real e conversões diretas para o cliente.
+> - **Acesse o projeto:** [pesqueirocapela.com.br](https://pesqueirocapela.com.br)
+
+<hr />
+
+### Tecnologias e Stack Principal
 
 <div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
@@ -38,20 +48,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuriloBresciaa/MuriloBresciaa/output/github-contribution-grid-snake.svg" />
     <img alt="Github Snake Animation" src="https://raw.githubusercontent.com/MuriloBresciaa/MuriloBresciaa/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
-
-<hr />
-
-### Estatísticas do GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuriloBresciaa&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBresciaa&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Linguagens Mais Utilizadas" />
-</div>
-
-<div align="center">
-  <br />
-  <img height="150" src="https://streak-stats.demolab.com/?user=MuriloBresciaa&theme=dark&hide_border=true" alt="Sequência de Commits" />
 </div>
 
 <hr />
