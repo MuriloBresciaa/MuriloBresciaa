@@ -45,13 +45,13 @@
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloBresciaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBresciaa&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Linguagens Mais Utilizadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuriloBresciaa&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBresciaa&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Linguagens Mais Utilizadas" />
 </div>
 
 <div align="center">
   <br />
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloBresciaa&theme=dark&hide_border=true" alt="Sequência de Commits" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=MuriloBresciaa&theme=dark&hide_border=true" alt="Sequência de Commits" />
 </div>
 
 <hr />
