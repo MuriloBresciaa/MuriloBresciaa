@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Murilo Brescia</h1>
-  <p><b>Software Developer | Founder @ Impulso Digital</b></p>
+  <p><b>Software Developer</b></p>
   <p>Desenvolvimento de software focado em alta performance, usabilidade e geração contínua de receita e valor de negócio para clientes.</p>
 </div>
 
@@ -8,7 +8,7 @@
 
 ### Sobre Mim
 
-- Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na UniMetrocamp Wyden.
+- Cursando Análise e Desenvolvimento de Sistemas na UniMetrocamp Wyden.
 - Desenvolvedor orientado a resultados na Impulso Digital, projetando e implantando soluções web de alto impacto comercial e forte otimização de conversão.
 - Domínio prático na construção de aplicações robustas em **PHP** e **Bancos de Dados Relacionais (MySQL/PostgreSQL)**, combinando arquitetura limpa e alta eficiência operacional.
 - Histórico comprovado de entregas em produção que resolvem dores reais do cliente, trazendo retorno sobre o investimento (ROI) imediato.
